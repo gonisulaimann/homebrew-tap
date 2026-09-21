@@ -3,8 +3,8 @@ class Grounded < Formula
 
   desc "Find dangling references in code comments. Deterministic, offline, zero dependencies"
   homepage "https://github.com/gonisulaimann/Grounded"
-  url "https://files.pythonhosted.org/packages/1a/35/58a0dbae526d5b4347a1d1b23ba532d31357beafe04c6eb419a807cdd8fd/grounded_lint-0.8.0.tar.gz"
-  sha256 "cb9d33a8af10928c5ecfe173934f584b8ca74d96b6a1ea09d31cee0d1d3979d9"
+  url "https://files.pythonhosted.org/packages/c7/ef/43dab73dcabbef660d1ad1a22efaa8068a9db0496d9e9f055ff6018d44eb/grounded_lint-0.9.0.tar.gz"
+  sha256 "95ae9a6f44aca791cff18819fef3c9ca76e59c329e76791804810edc226953c6"
   license "MIT"
 
   depends_on "python@3.13"
