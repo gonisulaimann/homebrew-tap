@@ -3,8 +3,8 @@ class Grounded < Formula
 
   desc "Reference integrity firewall for code and AI agents. Sub-millisecond, offline, zero dependencies"
   homepage "https://github.com/gonisulaimann/Grounded"
-  url "https://files.pythonhosted.org/packages/c4/b6/433fdfaa0c0ac780a60113a4e45f4a5c5051d1f84e46c0c29211704605d6/grounded_lint-0.14.0.tar.gz"
-  sha256 "d51360ef472798f6d91faab16885b2781f3176aa6bf59524337ba6edc0f72781"
+  url "https://files.pythonhosted.org/packages/1d/c8/93d250e5f819ec00003750d910b913bc62e82dcb0ae206b6b1a2de603bc0/grounded_lint-0.15.0.tar.gz"
+  sha256 "66585750d14881912442edfc64fdf01fa0cae415279175773a5484c3a92e1bba"
   license "MIT"
 
   depends_on "python@3.13"
